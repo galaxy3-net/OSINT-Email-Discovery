@@ -27,8 +27,8 @@ Download and install the tool.
 Run the tool using python2 and providing the domain to be searched.
 `python2 goog-mail.py example.com`
 
-# Demonstration
+# Video Demonstration
 
 The following video is a demonstration performed in the Galaxy3 environment which is an isolated lab that I created for my students to do this type of testing.
 
-(Video Link to be Posted Soon)
+[Goog-mail.py, an OSINT discovery tool. (OSINT) Open Source Intelligence](https://youtu.be/_M5O5SY8KNg)
