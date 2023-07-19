@@ -1,20 +1,20 @@
 # OSINT-Email-Discovery
-OSINT Email Discovery Tools
+OSINT Email Discovery Tool using Google
 
 The Google Email Discovery tool uses various Google websites to discover email addresses associated with the domain.
 
-# How is this toold useful?
+# How is Google Email Discovery tool useful?
 
 - For Pen-Testers, these email addresses can be used for Phishing tests.
 - Organizations often use email addresses as the user account names or some part of the email.
 
 # Is this tool safe?
 
-While it is always a good idea to review and vet all code and tools downloaded from the web to enaure that nothing nefarious is being done to your system or network.
+While it is always a good idea to review and vet all code and tools that you've downloaded from the web, we must ensure that the tools do not harm your system or network.
 
-I am not the author of this tool. I found it on the Internet and found it very useful as an OSINT tool. I have reviewed and vetted this OSINT script.
+I am not the author of this tool, but I discovered it on the Internet years ago and found it useful as an OSINT tool. I have reviewed and vetted this OSINT script.
 
-For additional safety with any cybersecurity related tools, I would recommend running this on a KAli Linux machine in a lab environment isolated from your home or production network.
+For additional safety with cybersecurity-related tools, I recommend running this on a KAli Linux machine in a lab environment isolated from your home or production network.
 
 # Downloading
 
